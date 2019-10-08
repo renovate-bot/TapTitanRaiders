@@ -1,0 +1,8 @@
+EnemyID,Name,Color,BodyHeadMult,BodyTorsoMult,BodyArmsMult,BodyLegsMult,ArmorHeadMult,ArmorTorsoMult,ArmorArmsMult,ArmorLegsMult,Total in Armour,Total in Body,BodyPhysicalMult,BodyElementalMult,BodyArcaneMult,ArmorPhysicalMult,ArmorElementalMult,ArmorArcaneMult,HPWeightBody,HPWeightArmor,HPWeightHead,HPWeightChest,HPWeightArm,HPWeightLeg,BonusTypeA,BonusAmountA,BonusTypeB,BonusAmountB,BonusTypeC,BonusAmountC,BonusTypeD,BonusAmountD,BonusTypeE,BonusAmountE
+Enemy1,Lojak,#FED779,0.25,0.4,0.2,0.2,0.25,0.35,0.2,0.2,1,1.05,1,1,1,1,1,1,2,1,2,3,1,1,BurstDamage,-0.2,SupportEffect,-0.2,AfflictedChance,0.8,ArmDamage,-0.2,AfflictedStackCount,-1
+Enemy2,Takedar,#83EFFF,0.35,0.3,0.25,0.15,0.3,0.3,0.25,0.15,1,1.05,1,1,1,1,1,1,1,2,1,2,3,4,BurstDamage,-0.2,SupportEffect,-0.2,HeadDamage,-0.2,LimbDamage,-0.2,ArmorDamage,-0.2
+Enemy3,Jukk,#DAF653,0.35,0.35,0.35,0.35,0.25,0.25,0.25,0.25,1,1.4,1,1,1,1,1,1,3,1,4,3,2,1,SupportEffect,-0.2,AfflictedDamage,-0.2,ChestDamage,-0.2,LegDamage,-0.2,AfflictedDuration,-0.2
+Enemy4,Sterl,#DCA1FB,0.2,0.65,0.2,0.2,0.2,0.2,0.2,0.2,0.8,1.25,1,1,1,1,1,1,1,6,1,8,1,1,SupportEffect,-0.2,AfflictedDamage,-0.2,ArmDamage,-0.2,LegDamage,-0.2,BodyDamage,-0.2
+Enemy5,Mohaca,#6DFFDE,0.25,0.25,0.4,0.4,0.25,0.5,0.25,0.25,1.25,1.3,1,1,1,1,1,1,5,3,4,4,1,1,AfflictedDamage,-0.2,BurstDamage,-0.2,AllRaidDamage,-0.2,ChestDamage,-0.2,BurstChance,0.8
+Enemy6,Terro,#D1E261,0.36,0.5,0.3,0.3,0.15,0.2,0.15,0.15,0.65,1.46,1,1,1,1,1,1,9,1,2,6,2,1,AfflictedDamage,-0.2,BurstDamage,-0.2,HeadDamage,-0.2,LimbDamage,-0.2,SupportStackCount,-1
+EnemyPractice,Lemmy,#FED779,0.25,0.25,0.25,0.25,0.25,0.25,0.25,0.25,1,1,1,1,1,1,1,1,1,1,1,1,1,1,None,0,None,0,None,0,None,0,None,0
